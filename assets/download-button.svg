@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="72" viewBox="0 0 300 72" role="img" aria-labelledby="title desc">
+  <title id="title">Download MedCalc trial</title>
+  <desc id="desc">Download MedCalc 24.0.4 for Windows</desc>
+  <rect x="1" y="1" width="298" height="70" rx="13" fill="#087ea4"/>
+  <path d="M37 17v25m-10-10 10 10 10-10M21 49h32" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <text x="69" y="31" fill="#fff" font-family="Arial,sans-serif" font-size="18" font-weight="700">Download MedCalc</text>
+  <text x="69" y="53" fill="#e6f7fc" font-family="Arial,sans-serif" font-size="14">Windows trial · Version 24.0.4</text>
+</svg>

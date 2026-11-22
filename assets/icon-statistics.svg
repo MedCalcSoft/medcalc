@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">Statistical analysis</title>
+  <path d="M7 41h35M10 38V28h7v10m5 0V18h7v20m5 0V9h7v29" fill="#a7dcee" stroke="#087ea4" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m9 21 9-7 8 2 12-10" fill="none" stroke="#172033" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <circle cx="9" cy="21" r="2" fill="#087ea4"/><circle cx="18" cy="14" r="2" fill="#087ea4"/><circle cx="26" cy="16" r="2" fill="#087ea4"/><circle cx="38" cy="6" r="2" fill="#087ea4"/>
+</svg>

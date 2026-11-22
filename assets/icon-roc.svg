@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">ROC curve analysis</title>
+  <path d="M8 7v34h34" fill="none" stroke="#172033" stroke-linecap="round" stroke-width="2"/>
+  <path d="M11 37 17 31 22 32 28 20 34 17 41 10" fill="none" stroke="#087ea4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M11 37 41 10" fill="none" stroke="#a7dcee" stroke-dasharray="3 3" stroke-width="2"/>
+</svg>

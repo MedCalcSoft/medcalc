@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://medcalcsoft.github.io/medcalc/sitemap.xml
