@@ -1,7 +1,7 @@
 MedCalc 24.0.4 - Licensing Notice
 
-MedCalc is proprietary software protected by copyright. The 15-day trial does not grant a perpetual license. A license is required for continued use after the trial period, and network installations require a suitable multi-user license.
+MedCalc is proprietary software protected by copyright. This package is described as the licensed full version. Network installations require a suitable multi-user license.
 
-This notice is not a license and does not replace the software publisher's current Software License Agreement. Use and redistribution are subject to applicable license terms. The repository owner states that permission to distribute this trial package has been granted.
+This notice is not a license and does not replace the software publisher's current Software License Agreement. Use and redistribution are subject to applicable license terms. The repository owner states that permission to distribute this package has been granted.
 
-The software setup files are included unchanged. No payment processing or purchase is offered by this repository.
+No payment processing or purchase is offered by this repository.

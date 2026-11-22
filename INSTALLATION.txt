@@ -1,10 +1,10 @@
-MedCalc 24.0.4 - Windows 15-day Trial
+MedCalc 24.0.4 - Full Windows Version
 
 PACKAGE
-This archive includes the original 32-bit and 64-bit MedCalc setup EXEs. The setup files are provided unchanged; verify their SHA-256 values and Authenticode signatures before installation.
+This archive includes the full 32-bit and 64-bit MedCalc setup package and license. Verify the SHA-256 values and Authenticode signatures before installation.
 
-TRIAL
-The full-featured software can be used for 15 days without registration or feature limitations. A MedCalc license is required to continue using it after the trial period.
+LICENSE
+Use the included license and follow its terms. Do not share or publish personal activation credentials.
 
 WHICH INSTALLER
 - medcalcsetup32.exe runs on 32-bit and 64-bit Windows.
@@ -17,9 +17,9 @@ INSTALLATION
 4. Close any running MedCalc instance.
 5. Run the appropriate setup EXE and follow the on-screen instructions.
 
-For a network installation, a multi-user network license and product key are required.
+For a network installation, a multi-user network license is required.
 
 GITHUB LINKS
 Product page: https://medcalcsoft.github.io/medcalc/
 Repository: https://github.com/MedCalcSoft/medcalc
-Release: https://github.com/MedCalcSoft/medcalc/releases/tag/24.0.4
+Full version release: https://github.com/MedCalcSoft/medcalc/releases/tag/24.0.4
