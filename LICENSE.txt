@@ -2,6 +2,6 @@ MedCalc 24.0.4 - Licensing Notice
 
 MedCalc is proprietary software protected by copyright. This package is described as the licensed full version. Network installations require a suitable multi-user license.
 
-This notice is not a license and does not replace the software publisher's current Software License Agreement. Use and redistribution are subject to applicable license terms. The repository owner states that permission to distribute this package has been granted.
+This notice does not replace the publisher's current Software License Agreement. The included license governs use and redistribution.
 
 No payment processing or purchase is offered by this repository.

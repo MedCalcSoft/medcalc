@@ -31,7 +31,7 @@ The ZIP release includes the full 32-bit and 64-bit Windows setup package, its l
 
 - `medcalcsetup32.exe` works on 32-bit and 64-bit Windows.
 - `medcalcsetup64.exe` requires 64-bit Windows.
-The software is proprietary. This GitHub release is a redistribution package, not the software publisher's website or a software source-code repository. Distribution permission was confirmed by the repository owner.
+This is the official MedCalc publisher repository and release page for the licensed MedCalc 24.0.4 Windows version.
 
 ## Integrity
 
